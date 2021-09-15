@@ -16,6 +16,6 @@
     "express": "^4.17.1",
     "googleapis": "^45.0.0",
     "mongoose": "^5.7.10",
-    "set-value": "2.0.1"
+    "set-value": "4.0.1"
   }
 }
